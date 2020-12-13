@@ -1,0 +1,25 @@
+table {
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    padding: 10px;
+    width: relative;
+    background-color: whitesmoke;
+    color: firebrick;
+    border-spacing: 10px;
+
+}
+
+th {
+    border: 2px solid firebrick;
+    padding: 10px;
+    background-color: firebrick;
+    color: whitesmoke;
+
+}
+
+td {
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    padding: 10px;
+    border: 0;
+}
